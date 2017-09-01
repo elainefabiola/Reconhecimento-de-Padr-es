@@ -4,3 +4,4 @@ Sistemas de Informação da Universisdade de São Paulo - USP.
 Nele é possível encontrar, dentro outras arquivos, o dataset utilizado,
 o código fonte na linguagem R e a análise. 
 DATA 01/09/2017
+Saiba mais em 
